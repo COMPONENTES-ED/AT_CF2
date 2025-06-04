@@ -43,7 +43,7 @@
         ya que permite adaptar las prácticas agrícolas a las condiciones
         específicas de cada área y momento. Esto es posible gracias a
         herramientas avanzadas, como los sistemas de información geográfica
-        (sig), sensores iot y drones, que facilitan la recopilación y análisis
+        (SIG), sensores IoT y drones, que facilitan la recopilación y análisis
         de datos georreferenciados. La integración de estas tecnologías en el
         manejo agrícola permite implementar estrategias de agricultura de
         precisión, como la fertilización y el riego variable, que aseguran un
@@ -286,7 +286,7 @@
                       >Los SIG son herramientas fundamentales para la gestión de
                       la variabilidad espacial, permitiendo mapear y analizar
                       datos georreferenciados sobre el suelo, el clima y los
-                      cultivo</span
+                      cultivo.</span
                     >
                   </td>
                   <td>
@@ -325,7 +325,7 @@
                       <li>
                         <i class="fas fa-check-circle color1"></i
                         ><span
-                          >integración con otras tecnologías de monitoreo</span
+                          >Integración con otras tecnologías de monitoreo.</span
                         >
                       </li>
                     </ul>
@@ -356,7 +356,7 @@
                       </li>
                       <li>
                         <i class="fas fa-check-circle color1"></i
-                        ><span>mapeo de zonas con baja productividad.</span>
+                        ><span>Mapeo de zonas con baja productividad.</span>
                       </li>
                     </ul>
                   </td>
@@ -375,7 +375,7 @@
                       </li>
                       <li>
                         <i class="fas fa-check-circle color1"></i
-                        ><span>datos precisos para la gestión localizada.</span>
+                        ><span>Datos precisos para la gestión localizada.</span>
                       </li>
                     </ul>
                   </td>

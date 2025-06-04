@@ -128,8 +128,8 @@
                   src="@/assets/curso/temas/13.png"
                   alt=""
                 />
-                <h5>Factores económicos</h5>
-                <y>sociales</y>
+                <h5>Factores económicos y sociales</h5>
+
                 <p>
                   Incluyen costos de producción, mercado y políticas públicas
                   que influyen en la sostenibilidad y rentabilidad del sistema.
@@ -235,7 +235,7 @@
                   <td>Extensivos</td>
                   <td>
                     Cultivos como trigo, maíz y arroz, caracterizados por
-                    grandes superficies y baja intensidad tecnológica
+                    grandes superficies y baja intensidad tecnológica.
                   </td>
                 </tr>
                 <tr>
@@ -254,13 +254,15 @@
                     </span>
                   </td>
                   <td>Intensivos</td>
-                  <td>Producción avícola y porcina en ambientes controlados</td>
+                  <td>
+                    Producción avícola y porcina en ambientes controlados.
+                  </td>
                 </tr>
                 <tr>
                   <td>Extensivo</td>
                   <td>
                     Ganadería bovina en pastoreo, dependiente de variables
-                    climáticas
+                    climáticas.
                   </td>
                 </tr>
                 <tr>
@@ -668,11 +670,62 @@
       </TabsC>
       <div class="row justify-content-center">
         <div class="col-lg-12">
-          <div class="titulo-sexto color-acento-contenido">
+          <!-- <div class="titulo-sexto color-acento-contenido">
             <h5>Tabla 2.</h5>
             <span>Retos y beneficios de la sostenibilidad</span>
-          </div>
-          <div class="tabla-a color-acento-botones mb-5">
+          </div> -->
+          <h4>Retos y beneficios de la sostenibilidad:</h4>
+          <ul class="lista-ul fa-ul">
+            <li>
+              <i class="fas fa-check-circle color1"></i
+              ><span
+                ><b>Acceso a tecnología y capital:</b> las inversiones iniciales
+                necesarias para la automatización y la adopción de prácticas
+                sostenibles pueden ser prohibitivas para pequeños y medianos
+                productores.</span
+              >
+            </li>
+            <li>
+              <i class="fas fa-check-circle color1"></i
+              ><span
+                ><b>Capacitación técnica:</b> el éxito de estas tecnologías
+                depende de la capacidad de los productores y trabajadores
+                agrícolas para utilizarlas de manera efectiva.
+              </span>
+            </li>
+            <li>
+              <i class="fas fa-check-circle color1"></i
+              ><span
+                ><b>Políticas y regulaciones:</b> la falta de políticas públicas
+                que fomenten la sostenibilidad puede limitar la adopción de
+                prácticas y tecnologías innovadoras.</span
+              >
+            </li>
+          </ul>
+          <h4>Beneficios a largo plazo de la sostenibilidad:</h4>
+          <ul class="lista-ul fa-ul mb-5">
+            <li>
+              <i class="fas fa-check-circle color1"></i
+              ><span
+                >Adoptar un enfoque sostenible en los sistemas productivos no
+                solo responde a los desafíos actuales, sino que también ofrece
+                beneficios significativos a largo plazo, entre estos destacan la
+                resiliencia frente a condiciones climáticas extremas, la
+                conservación de la fertilidad del suelo y la creación de un
+                sector agropecuario más competitivo y adaptativo.
+              </span>
+            </li>
+            <li>
+              <i class="fas fa-check-circle color1"></i
+              ><span
+                >La combinación de tecnologías avanzadas, como la automatización
+                con prácticas agrícolas sostenibles, constituye una estrategia
+                integral para garantizar que los sistemas productivos
+                agropecuarios sigan siendo viables y rentables en el futuro.
+              </span>
+            </li>
+          </ul>
+          <!-- <div class="tabla-a color-acento-botones mb-5">
             <table>
               <caption>
                 Fuente: OIT, 2024.
@@ -725,7 +778,7 @@
                 </tr>
               </tbody>
             </table>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="row justify-content-center">

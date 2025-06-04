@@ -28,9 +28,9 @@
                   productivos y el monitoreo de variables críticas, como
                   temperatura, humedad, precipitación y calidad del suelo. A
                   través de tecnologías como sensores IoT, plataformas SCADA y
-                  software de análisis de datos, se busca optimizar cada fase
-                  del proceso productivo, desde la siembra hasta la cosecha y
-                  postcosecha. Estas herramientas no solo permiten la
+                  <em>software</em> de análisis de datos, se busca optimizar
+                  cada fase del proceso productivo, desde la siembra hasta la
+                  cosecha y postcosecha. Estas herramientas no solo permiten la
                   recolección de datos en tiempo real, sino también la toma de
                   decisiones informadas que mejoren el rendimiento y reduzcan el
                   impacto ambiental.

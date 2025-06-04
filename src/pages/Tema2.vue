@@ -200,7 +200,7 @@
         problemas como la compactación del suelo, la salinización o la
         contaminación de los acuíferos. Este apartado se centra en identificar y
         explicar estas variables, resaltando su relevancia en la planificación y
-        operación de los sistemas productivos
+        operación de los sistemas productivos.
       </p>
       <div class="row bg8 align-items-center">
         <div class="col-lg-12 col-12 px-lg-5 px-4">
@@ -364,7 +364,7 @@
         evolucionado, permitiendo a los productores tener un control detallado
         de cada aspecto del sistema productivo. Este apartado profundiza en las
         técnicas y tecnologías de monitoreo, resaltando su papel en la
-        optimización de los procesos productivo.
+        optimización de los procesos productivos.
       </p>
       <div class="row justify-content-start mt-5 mb-4">
         <div class="col-auto">
@@ -388,12 +388,12 @@
                 La evolución de la tecnología ha transformado el monitoreo en
                 sistemas productivos, pasando de métodos manuales a sistemas
                 automatizados que recopilan y analizan datos en tiempo real.
-                Sensores, drones, imágenes satelitales y software especializado
-                han revolucionado la forma en que se controlan las variables
-                agroclimáticas, del suelo y productivas. Este apartado se centra
-                en las principales tecnologías disponibles, sus características
-                y cómo contribuyen a mejorar la toma de decisiones y la
-                eficiencia del sistema.
+                Sensores, drones, imágenes satelitales y
+                <em>software</em> especializado han revolucionado la forma en
+                que se controlan las variables agroclimáticas, del suelo y
+                productivas. Este apartado se centra en las principales
+                tecnologías disponibles, sus características y cómo contribuyen
+                a mejorar la toma de decisiones y la eficiencia del sistema.
               </p>
             </div>
           </div>
@@ -568,7 +568,7 @@
         rurales y la necesidad de capacitación especializada pueden limitar su
         adopción. Este apartado aborda los principales retos que enfrentan los
         productores y propone estrategias para superarlos, garantizando que el
-        monitoreo se convierta en una herramienta accesible y efectiva
+        monitoreo se convierta en una herramienta accesible y efectiva.
       </p>
       <h5>
         El monitoreo de variables en los sistemas productivos ofrece múltiples
@@ -586,7 +586,7 @@
                   <span class="text-black">1</span>
                 </div>
                 <span
-                  ><b>Optimización de Recursos:</b> Permite un uso eficiente de
+                  ><b>Optimización de Recursos:</b> permite un uso eficiente de
                   agua, fertilizantes y energía, reduciendo costos
                   operativos.</span
                 >
@@ -596,7 +596,7 @@
                   <span class="text-black">2</span>
                 </div>
                 <span
-                  ><b>Aumento de la Productividad:</b> La gestión precisa de
+                  ><b>Aumento de la Productividad:</b> la gestión precisa de
                   variables asegura condiciones óptimas para el crecimiento de
                   los cultivos y la salud animal.</span
                 >
@@ -606,7 +606,7 @@
                   <span class="text-black">3</span>
                 </div>
                 <span
-                  ><b>Mitigación de Riesgos:</b> Identifica problemas como
+                  ><b>Mitigación de Riesgos:</b> identifica problemas como
                   deficiencias nutricionales o amenazas climáticas, permitiendo
                   una respuesta oportuna.</span
                 >
@@ -616,7 +616,7 @@
                   <span class="text-black">4</span>
                 </div>
                 <span
-                  ><b>Sostenibilidad:</b> Minimiza el impacto ambiental al
+                  ><b>Sostenibilidad:</b> minimiza el impacto ambiental al
                   reducir el uso excesivo de insumos y proteger recursos
                   naturales.</span
                 >
@@ -751,7 +751,7 @@
           </div>
           <p>
             Se recomienda profundizar en variables de sistemas productivos y
-            Monitoreo de variables
+            monitoreo de variables.
           </p>
         </div>
       </div>

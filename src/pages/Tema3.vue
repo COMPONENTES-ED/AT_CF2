@@ -130,7 +130,7 @@
                       <li>
                         <i class="fas fa-check-circle color1"></i
                         ><span
-                          >Sensores de humedad del suelo: Ayudan a optimizar el
+                          >Sensores de humedad del suelo: ayudan a optimizar el
                           riego al medir la cantidad de agua disponible para las
                           plantas.</span
                         >
@@ -138,7 +138,7 @@
                       <li>
                         <i class="fas fa-check-circle color1"></i
                         ><span
-                          >Sensores de calidad del aire: Utilizados en sistemas
+                          >Sensores de calidad del aire: utilizados en sistemas
                           pecuarios para controlar niveles de gases como
                           amoníaco y CO2.</span
                         >
@@ -147,7 +147,7 @@
                         <i class="fas fa-check-circle color1"></i
                         ><span
                           >Sensores de temperatura y humedad relativa:
-                          Monitorean el ambiente de cultivos e
+                          monitorean el ambiente de cultivos e
                           invernaderos.</span
                         >
                       </li>
@@ -366,7 +366,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Sistemas de riego automatizado: Integran sensores de
+                    >Sistemas de riego automatizado: integran sensores de
                     humedad del suelo para activar riegos solo cuando es
                     necesario, optimizando el uso del agua.</span
                   >
@@ -374,7 +374,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Monitoreo climático: Sensores que miden variables como
+                    >Monitoreo climático: sensores que miden variables como
                     temperatura, humedad y precipitación ayudan a predecir
                     condiciones adversas.</span
                   >
@@ -382,7 +382,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Uso de drones y satélites: Proveen imágenes de grandes
+                    >Uso de drones y satélites: proveen imágenes de grandes
                     áreas agrícolas, permitiendo identificar zonas con estrés
                     hídrico o infestaciones de plagas.</span
                   >
@@ -540,7 +540,7 @@
             optimizar el bienestar animal y la eficiencia en la producción. Esto
             incluye la gestión automatizada de la alimentación, el monitoreo de
             la salud y el control de las condiciones ambientales. Algunos
-            ejemplos de automatización en sistemas pecuarios son:estratégicas.
+            ejemplos de automatización en sistemas pecuarios son:
           </p>
           <div class="bg3 p-4 brad">
             <ol class="lista-ol--cuadro fa-ul">
@@ -765,7 +765,7 @@
                           ><span
                             ><b>Sostenibilidad:</b> al reducir el impacto
                             ambiental, la automatización promueve prácticas
-                            agrícolas más responsables
+                            agrícolas más responsables.
                           </span>
                         </li>
                       </ul>

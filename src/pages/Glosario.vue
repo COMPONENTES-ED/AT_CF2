@@ -37,9 +37,9 @@ export default {
     return {
       glosarioData: [
         {
-          termino: 'Agricultura de Precisión',
+          termino: 'Agricultura de precisión',
           significado:
-            'Sistema de gestión agrícola que utiliza tecnologías como GPS, sensores y datos geoespaciales para optimizar el uso de insumos y maximizar la productividad y sostenibilidad',
+            'Sistema de gestión agrícola que utiliza tecnologías como GPS, sensores y datos geoespaciales para optimizar el uso de insumos y maximizar la productividad y sostenibilidad.',
         },
         {
           termino: 'AquaCrop',
@@ -47,14 +47,14 @@ export default {
             'Modelo desarrollado por la FAO para simular la productividad del agua en cultivos, optimizando el uso de este recurso en diferentes condiciones climáticas.',
         },
         {
-          termino: 'Automatización Agrícola',
+          termino: 'Automatización agrícola',
           significado:
-            'Implementación de sistemas tecnológicos, como sensores IoT y plataformas SCADA, para monitorear y controlar automáticamente los procesos productivos',
+            'Implementación de sistemas tecnológicos, como sensores IoT y plataformas SCADA, para monitorear y controlar automáticamente los procesos productivos.',
         },
         {
-          termino: 'Gestión Integrada de Recursos',
+          termino: 'Gestión integrada de recursos',
           significado:
-            'Enfoque coordinado para administrar agua, suelo, energía y otros insumos en un sistema productivo, buscando equilibrar la productividad con la sostenibilidad',
+            'Enfoque coordinado para administrar agua, suelo, energía y otros insumos en un sistema productivo, buscando equilibrar la productividad con la sostenibilidad.',
         },
         {
           termino: 'GNSS  (Sistema Global de Navegación por Satélite)',
@@ -62,7 +62,7 @@ export default {
             'Tecnología que proporciona datos de ubicación y tiempo precisos, utilizada en la agricultura para siembra y aplicación de insumos con precisión.',
         },
         {
-          termino: 'IoT (Internet of Things)',
+          termino: 'IoT (Internet <em>of Things</em>)',
           significado:
             'Red de dispositivos interconectados que recopilan y comparten datos en tiempo real, permitiendo el monitoreo y la gestión de variables clave en la agricultura.',
         },
@@ -82,7 +82,7 @@ export default {
             'Índice que mide la salud de la vegetación usando datos de luz reflejada, indicando áreas con estrés hídrico o deficiencia de nutrientes.',
         },
         {
-          termino: 'Sensores Multiespectrales',
+          termino: 'Sensores multiespectrales',
           significado:
             'Dispositivos que capturan datos en diferentes longitudes de onda, utilizados principalmente en drones para evaluar la salud de los cultivos mediante índices de vegetación.',
         },
@@ -94,22 +94,22 @@ export default {
         {
           termino: 'Sistema SCADA',
           significado:
-            'Plataforma de software que supervisa, controla y adquiere datos en tiempo real, utilizada en sistemas agrícolas para optimizar operaciones como el riego y la climatización.',
+            'Plataforma de <em>software</em> que supervisa, controla y adquiere datos en tiempo real, utilizada en sistemas agrícolas para optimizar operaciones como el riego y la climatización.',
         },
         {
-          termino: 'Sostenibilidad Agrícola',
+          termino: 'Sostenibilidad agrícola',
           significado:
             'Prácticas agrícolas que buscan satisfacer las necesidades actuales de producción sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas.',
         },
         {
-          termino: 'Variabilidad Espacial',
+          termino: 'Variabilidad espacial',
           significado:
-            'Diferencias en las propiedades del suelo, clima y otros factores dentro de una parcela agrícola, que afectan el rendimiento de los cultivos',
+            'Diferencias en las propiedades del suelo, clima y otros factores dentro de una parcela agrícola, que afectan el rendimiento de los cultivos.',
         },
         {
-          termino: 'Variabilidad Temporal',
+          termino: 'Variabilidad temporal',
           significado:
-            'Cambios en las condiciones agroclimáticas o del suelo a lo largo del tiempo, como variaciones estacionales en temperatura y precipitación',
+            'Cambios en las condiciones agroclimáticas o del suelo a lo largo del tiempo, como variaciones estacionales en temperatura y precipitación.',
         },
       ],
     }

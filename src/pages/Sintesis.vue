@@ -21,8 +21,8 @@
               <p class="mb-0">
                 El siguiente diagrama proporciona una representación visual
                 sintetizada de los principales temas abordados en el componente
-                formativo sobre Automatización y Monitoreo de Sistemas
-                Productivos Agropecuarios. Este mapa conceptual ha sido diseñado
+                formativo sobre automatización y monitoreo de sistemas
+                productivos agropecuarios. Este mapa conceptual ha sido diseñado
                 para facilitar la comprensión de las interrelaciones entre las
                 diferentes áreas temáticas del componente.
               </p>
@@ -30,7 +30,7 @@
           </div>
           <p>
             En el núcleo del diagrama se encuentra el concepto principal de
-            Automatización y Monitoreo, del cual se desprenden temas
+            automatización y monitoreo, del cual se desprenden temas
             fundamentales como la importancia de la tecnología en el sector
             agropecuario, las herramientas teóricas y prácticas para implementar
             sistemas automatizados, y las tecnologías utilizadas en el monitoreo
@@ -79,6 +79,7 @@
               src="@/assets/curso/temas/sintesis.svg"
               alt="La Figura 6 se denomina «Síntesis temática del componente». Presenta un mapa mental sobre automatización y monitoreo de sistemas productivos agropecuarios, se ramifica en ocho áreas principales que abarcan: la importancia de la tecnología, herramientas teóricas y prácticas, tecnologías utilizadas (como IoT y SCADA), optimización de procesos, beneficios del monitoreo, estudios de caso específicos, normativas y buenas prácticas, y preparación para retos del sector agropecuario moderno. Cada rama incluye subtemas detallados sobre aspectos específicos de la automatización y el monitoreo."
             />
+            <figcaption>Fuente. OIT, 2024</figcaption>
           </figure>
         </div>
         <div class="col-auto">
