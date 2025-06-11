@@ -77,9 +77,9 @@
           <figure>
             <img
               src="@/assets/curso/temas/sintesis.svg"
-              alt="La Figura 6 se denomina «Síntesis temática del componente». Presenta un mapa mental sobre automatización y monitoreo de sistemas productivos agropecuarios, se ramifica en ocho áreas principales que abarcan: la importancia de la tecnología, herramientas teóricas y prácticas, tecnologías utilizadas (como IoT y SCADA), optimización de procesos, beneficios del monitoreo, estudios de caso específicos, normativas y buenas prácticas, y preparación para retos del sector agropecuario moderno. Cada rama incluye subtemas detallados sobre aspectos específicos de la automatización y el monitoreo."
+              alt="La síntesis presenta un mapa mental sobre automatización y monitoreo de sistemas productivos agropecuarios, se ramifica en ocho áreas principales que abarcan: la importancia de la tecnología, herramientas teóricas y prácticas, tecnologías utilizadas (como IoT y SCADA), optimización de procesos, beneficios del monitoreo, estudios de caso específicos, normativas y buenas prácticas, y preparación para retos del sector agropecuario moderno. Cada rama incluye subtemas detallados sobre aspectos específicos de la automatización y el monitoreo."
             />
-            <figcaption>Fuente. OIT, 2024</figcaption>
+            <!-- <figcaption>Fuente. OIT, 2024</figcaption> -->
           </figure>
         </div>
         <div class="col-auto">
