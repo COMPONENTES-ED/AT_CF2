@@ -706,7 +706,13 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/50.svg"
-              alt="La Figura 2 se denomina «Resumen variables en sistemas productivos y monitoreo». Del tema principal se desprenden cinco ramas principales que abordan: la importancia de las variables, el monitoreo en la gestión, los avances tecnológicos, los beneficios del monitoreo y la relación entre el monitoreo y la productividad en sistemas productivos. Cada rama incluye subtemas específicos que amplían estos conceptos. Se adjunta link, para su mejor observación. https://www.mindomo.com/mindmap/7158273efee84181b169692d7a5bfb8f"
+              alt="En
+            el diagrama Variables en sistemas productivos y monitoreos
+            agropecuarios se desprenden cinco ramas principales que abordan: la
+            importancia de las variables, el monitoreo en la gestión, los
+            avances tecnológicos, los beneficios del monitoreo y la relación
+            entre el monitoreo y la productividad en sistemas productivos. Cada
+            rama incluye subtemas específicos que amplían estos conceptos. "
             />
           </div>
           <figcaption class="mb-5">Fuente: OIT, 2024.</figcaption>

@@ -794,7 +794,8 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/26.svg"
-              alt="La Figura 1. se denomina «Resumen introducción a los sistemas productivos agropecuarios», abordando su definición, tipos y componentes clave. También se ha destacado la importancia de la caracterización para su gestión eficiente y el papel fundamental de la sostenibilidad en la agricultura moderna. Se adjunta link, para su mejor observación. https://www.mindomo.com/mindmap/a8d91f790ae3442393caf74b559fdb80"
+              alt="El diagrama «Resumen introducción a los sistemas productivos agropecuarios», abordando su definición, tipos y componentes clave. También se ha destacado la importancia de la caracterización para su gestión eficiente y el papel fundamental de la sostenibilidad en la agricultura moderna.
+"
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>
