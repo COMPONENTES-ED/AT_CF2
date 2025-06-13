@@ -526,7 +526,7 @@
                     <div class="col-lg-6 my-2">
                       <h5 class="mb-4">Adaptación a cambios tecnológicos</h5>
                       <p>
-                        Mejoras en <em>hardware</em> y <em>software</em>.
+                        Mejoras en <em>hardware</em> y <em>software</em>
                         agrícola.
                       </p>
                     </div>

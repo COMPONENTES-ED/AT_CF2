@@ -674,7 +674,8 @@
             <h5>Tabla 2.</h5>
             <span>Retos y beneficios de la sostenibilidad</span>
           </div> -->
-          <h4>Retos y beneficios de la sostenibilidad:</h4>
+          <h3 class="mb-4">Retos y beneficios de la sostenibilidad:</h3>
+          <h4>Retos para alcanzar la sostenibilidad</h4>
           <ul class="lista-ul fa-ul">
             <li>
               <i class="fas fa-check-circle color1"></i
