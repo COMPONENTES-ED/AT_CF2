@@ -23,59 +23,66 @@ export default {
     referencias: [
       {
         referencia:
-          'Aguilera, M. (2014). Desarrollo en la Avicultura en Colombia: Instituciones, Organizaciones y Tecnología. Revista del Banco de la República, 87(1046), 21–56.',
-      },
-      {
-        referencia:
-          'Bernal, E. J. A., & Díaz, A. (2014). Mico CORPOICA: Buenas Prácticas Agrícolas (BPA) en el Cultivo de Aguacate. Bogotá: CORPOICA.',
-      },
-      {
-        referencia: 'FAO. (2023). <i>Simulation Model</i>',
+          'Alternativascc.org. (n.d.). [Documento PDF]. Recuperado el 17 de junio de 2025, de',
         link:
-          'https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/.',
+          'https://alternativascc.org/wp-content/uploads/2018/05/mip_web-1.pdf',
       },
       {
         referencia:
-          'Farmonaut. (2023). Revolution culture: How IoT and Drones Are Driving Precision Farming for Sustainable Crop Yields. ',
-        link: 'https://farmonaut.com/iot-precision-agriculture/',
+          'CropSyst. (n.d.). [Simulador Web]. Fao.org. Recuperado el 17 de junio de 2025, de',
+        link:
+          'https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/ ',
       },
       {
         referencia:
-          'Food and Agriculture Organization of the United Nations. (2006). Evapotranspiración del Cultivo: Guías para determinación de los requerimientos de agua de los cultivos (Estudios FAO: Riego y Drenaje). <i>Food & Agriculture Organization.</i> ',
-        link: 'https://www.fao.org',
+          'Edu.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://repositorio.unibague.edu.co/entities/publication/80fffeba-5ef1-4896-b721-e56c29b32bfa',
       },
       {
         referencia:
-          'Pieri, R. (2010). Metodología de la Investigación (5ª ed.). McGraw-Hill Interamericana.',
+          'Fao.org. (n.d.). [Documento PDF]. Recuperado el 17 de junio de 2025, de',
+        link:
+          'https://openknowledge.fao.org/server/api/core/bitstreams/f3660258-d07f-487e-b3c1-01661c83cb16/content',
       },
       {
         referencia:
-          'Fundación Al. (2015). Manual de manejo integrado de plagas: Guía para cuidar un huerto orgánico y saludable. Bolivia: Fundación Alternativas.',
+          'Foster, T., Brozović, N., Butler, A., Neale, C., Raes, D., Steduto, P., Fereres, E., & Hsiao, T. (2017). AquaCrop-OS: An open source version of FAO’s crop water productivity model. Agricultural Water Management, 181, 18–22. [Simulador Web].',
+        link: 'https://doi.org/10.1016/J.AGWAT.2016.11.015',
       },
       {
         referencia:
-          'Fundación Alternativas. (2015). Agricultura Urbana en Cursos: Estrategias para la resiliencia y sostenibilidad. Bolivia: Fundación Alternativas.',
+          'Gov.co. (n.d.). [Documento PDF].  Recuperado el 17 de junio de 2025,  de',
+        link:
+          'https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/dtser_214.pdf',
       },
       {
         referencia:
-          'Fundación Alternativas. (2015). Manejo de Plagas en la Agricultura Orgánica. La Paz: Fundación Alternativa.',
-      },
-      {
-        referencia:
-          'Garbanzo, M. (2011). Manual de buenas prácticas para el Cultivo de Aguacate Hass. Costa Rica: CORFOGA.',
-      },
-      {
-        referencia:
-          'Instituto Agropecuario (ICA). (2012). Manejo Fitosanitario del Cultivo del Aguacate Hass. Bogotá: ICA.',
-      },
-      {
-        referencia: 'LiteFarm. (2021). L Farm Management Tool.',
-        link: 'https://www.litefarm.org/',
-      },
-      {
-        referencia:
-          'U.S. Government Accountability Office. (2023). Agriculture Technologies for Resource Efficiency*.',
+          'Government Accountability Office. (n.d.). Precision agriculture: Benefits and challenges for technology adoption and use. [Pagina Web]. Gao.gov. Recuperado el 16 de junio de 2025, de',
         link: 'https://www.gao.gov/products/gao-24-105962',
+      },
+      {
+        referencia:
+          'How IoT drives data-driven precision farming. (2024). [Pagina Web]. Farmonaut®.',
+        link:
+          'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
+      },
+      {
+        referencia:
+          'Metternicht, G. (n.d.). Use of remote sensing and GNSS in precision agriculture. [Documento PDF]. Unoosa.org. Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf',
+      },
+      {
+        referencia:
+          'Montoya, E. A. Q., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Colorado, S. F. J., Muñoz, W. Y. C., Golondrino, G. E. C., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, & Institución universitaria Colegio Mayor del Cauca, Cra. 7 #2-34, 190003, Popayán, Colombia. (2017). Propuesta de una Arquitectura para Agricultura de Precisión Soportada en IoT. RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação, 24, 39–56.',
+        link: 'https://doi.org/10.17013/risti.24.39-56',
+      },
+      {
+        referencia:
+          'Smart farming with drones & IoT precision sensors. (2024). [Pagina Web]. Farmonaut®.',
+        link:
+          'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/ ',
       },
     ],
   }),

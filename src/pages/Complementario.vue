@@ -61,55 +61,56 @@ export default {
         {
           tema: 'Internet de las cosas (IoT) en agricultura',
           referencia:
-            'Farmonaut. (2023). <i>Revolutionizing Agriculture: How IoT and Drones Are Driving Precision Farming for Sustainable Crop Yields</i>. Farmonaut.',
-          tipo: 'Documento Técnico',
+            'Smart farming with drones & IoT precision sensors. (2024, noviembre 5). Farmonaut®. https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/ ',
+          tipo: 'Pagina Web',
           link:
-            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/ ',
+            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/',
         },
         {
           tema: 'Automatización con sistemas SCADA',
           referencia:
-            'GAO. (2023). Precision Agriculture: Benefits and Challenges for Technology Adoption and Use. U.S. Government Accountability Office',
-          tipo: 'Documento Técnico',
+            'U.S. Government Accountability Office. (s/f). Precision agriculture: Benefits and challenges for technology adoption and use. Gao.gov. Recuperado el 16 de junio de 2025, de https://www.gao.gov/products/gao-24-105962',
+          tipo: 'Pagina Web',
           link: 'https://www.gao.gov/products/gao-24-105962 ',
         },
         {
           tema: 'Drones en la agricultura',
           referencia:
-            'Farmonaut. (2023). How Data-Driven Precision Farming and IoT are Optimizing Crop Yields and Sustainability. Farmonaut',
-          tipo: 'Documento Técnico',
+            'How IoT drives data-driven precision farming. (2024, octubre 3). Farmonaut®. https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
+          tipo: 'Pagina Web',
           link:
-            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/ ',
+            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
         },
         {
           tema: 'GNSS en la agricultura',
           referencia:
-            'Armonaut. (2006). UN-Zambia-ESA <i>Regional Workshop on the Applications of GNSS in Sub-Saharan Africa</i> - June 2006.',
+            'Metternicht, G. (n.d.). Use of remote sensing and GNSS in precision agriculture. [Documento PDF]. Unoosa.org. Recuperado el 16 de junio de 2025, de https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf',
           tipo: 'Documento Técnico',
           link:
-            'https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf ',
+            'https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf',
         },
         {
-          tema: 'Gestión integrada de fincas con LiteFarm',
+          tema: 'Gestión integrada de fincas',
           referencia:
-            'LiteFarm. (2021). Sustainable farm management tool. FAO.',
-          tipo: 'Herramienta de gestión ',
-          link: 'https://www.litefarm.org/ ',
+            'Edu.co. [Documento PDF]. Recuperado el 16 de junio de 2025, de https://repositorio.unibague.edu.co/entities/publication/80fffeba-5ef1-4896-b721-e56c29b32bfa',
+          tipo: 'Documento sobre Herramientas de gestión',
+          link:
+            'https://repositorio.unibague.edu.co/entities/publication/80fffeba-5ef1-4896-b721-e56c29b32bfa',
         },
         {
           tema: 'Gestión eficiente del agua con AquaCrop-OS',
           referencia:
-            'Foster, T., et al. (2017). <i>AquaCrop-OS: Opensource version of FAO&#8242;s water productivity model.</i>',
+            'Foster, T., Brozović, N., Butler, A., Neale, C., Raes, D., Steduto, P., Fereres, E., & Hsiao, T. (2017). AquaCrop-OS: An open source version of FAO’s crop water productivity model. Agricultural Water Management, 181, 18–22. [Simulador Web]. https://doi.org/10.1016/J.AGWAT.2016.11.015',
           tipo: 'Simulador',
-          link: 'https://digitalcommons.unl.edu/wffdocs/16/ ',
+          link: 'https://doi.org/10.1016/J.AGWAT.2016.11.015',
         },
         {
           tema: 'Simulador CropSyst para manejo de cultivos',
           referencia:
-            '<i>Farmonaut. (2023). Using Drones for Precision Agriculture. Farmonaut.</i>',
+            'CropSyst. (n.d.). [Simulador Web]. Fao.org. Recuperado el 17 de junio de 2025, de https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/',
           tipo: 'Simulador',
           link:
-            'https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/ ',
+            'https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/',
         },
       ]
     },
