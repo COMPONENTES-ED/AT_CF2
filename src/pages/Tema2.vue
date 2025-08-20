@@ -790,7 +790,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-4 mb-lg-0"
-            href="https://www.iotforall.com/"
+            href="https://doi.org/10.17013/risti.24.39-56"
             target="_blank"
           >
             <div class="anexo__icono">

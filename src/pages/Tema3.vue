@@ -942,63 +942,6 @@
           <figcaption class="mb-5">Fuente: OIT, 2024.</figcaption>
         </div>
       </div>
-      <p>
-        Se recomienda profundizar en variables de sistemas productivos y
-        monitoreo de variables.
-      </p>
-      <div class="row justify-content-center">
-        <div class="col-lg-4 my-3">
-          <a
-            class="anexo mb-4 mb-lg-0"
-            href="https://www.youtube.com/watch?v=3eQKBi4kdHQ"
-            target="_blank"
-          >
-            <div class="anexo__icono">
-              <img src="@/assets/bullets/icono-link.svg" />
-            </div>
-            <div class="anexo__texto">
-              <p>
-                <b>Enlace video.</b> “sistemas de productividad agricola ”:
-                “Introducción a sensores IoT en agricultura"
-              </p>
-            </div></a
-          >
-        </div>
-        <div class="col-lg-4 my-3">
-          <a
-            class="anexo mb-4 mb-lg-0"
-            href="https://www.fao.org/land-water/databases-and-software/cropwat/es/"
-            target="_blank"
-          >
-            <div class="anexo__icono">
-              <img src="@/assets/bullets/icono-link.svg" />
-            </div>
-            <div class="anexo__texto">
-              <p>
-                <b>Enlace web.</b> Simulador: cropwat: herramienta para cálculo
-                de riego agrícola
-              </p>
-            </div></a
-          >
-        </div>
-        <div class="col-lg-4 my-3">
-          <a
-            class="anexo mb-4 mb-lg-0"
-            href="https://www.iotforall.com/"
-            target="_blank"
-          >
-            <div class="anexo__icono">
-              <img src="@/assets/bullets/icono-link.svg" />
-            </div>
-            <div class="anexo__texto">
-              <p>
-                <b>Enlace web.</b> Lectura: “Introducción a sensores IoT en
-                agricultura"
-              </p>
-            </div></a
-          >
-        </div>
-      </div>
     </div>
   </div>
 </template>
