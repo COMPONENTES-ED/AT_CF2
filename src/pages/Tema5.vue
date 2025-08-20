@@ -602,7 +602,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/104.svg"
-              alt="El diagrama «Resumen herramientas y métodos de análisis en sistemas productivos y agropecuarios», se divide en cuatro ramas principales que abarcan la planificación y gestión integrada de recursos, herramientas tecnológicas para decisiones informadas, modelos de gestión integrada, y estrategias de optimización de recursos en sistemas automatizados. Cada rama se desglosa en subtemas específicos relacionados con la gestión agropecuaria."
+              alt="El diagrama se divide en cuatro ramas principales que abarcan la planificación y gestión integrada de recursos, herramientas tecnológicas para decisiones informadas, modelos de gestión integrada, y estrategias de optimización de recursos en sistemas automatizados. Cada rama se desglosa en subtemas específicos relacionados con la gestión agropecuaria."
             />
           </div>
           <figcaption class="mb-5">Fuente: OIT, 2024.</figcaption>

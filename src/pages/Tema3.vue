@@ -936,7 +936,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/74.svg"
-              alt="El diagrama «Resumen automatización en el monitoreo de sistemas productivos» se estructura en cuatro ramas principales que explican el impacto de la automatización en sistemas agropecuarios, las tecnologías utilizadas (como IoT y SCADA), los beneficios del monitoreo automatizado, y el rol de la automatización como aliado en el entorno agropecuario, incluyendo aspectos como eficiencia, costos y calidad."
+              alt="El diagrama se estructura en cuatro ramas principales que explican el impacto de la automatización en sistemas agropecuarios, las tecnologías utilizadas (como IoT y SCADA), los beneficios del monitoreo automatizado, y el rol de la automatización como aliado en el entorno agropecuario, incluyendo aspectos como eficiencia, costos y calidad."
             />
           </div>
           <figcaption class="mb-5">Fuente: OIT, 2024.</figcaption>

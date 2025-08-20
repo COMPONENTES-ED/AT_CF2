@@ -433,8 +433,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/85.svg"
-              alt="El diagrama «Resumen gestión de variabilidad espacial y temporal» se ramifica en siete aspectos principales que incluyen la importancia de la variabilidad en sistemas agropecuarios, la distinción entre variabilidad espacial y temporal, herramientas tecnológicas como SIG y drones, el uso de tecnologías para datos georreferenciados, estrategias de agricultura de precisión, y los beneficios de gestionar esta variabilidad en sistemas productivos.
-"
+              alt="El diagrama se ramifica en siete aspectos principales que incluyen la importancia de la variabilidad en sistemas agropecuarios, la distinción entre variabilidad espacial y temporal, herramientas tecnológicas como SIG y drones, el uso de tecnologías para datos georreferenciados, estrategias de agricultura de precisión, y los beneficios de gestionar esta variabilidad en sistemas productivos."
             />
           </div>
           <figcaption class="mb-5">Fuente: OIT, 2024.</figcaption>
