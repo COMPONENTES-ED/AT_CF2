@@ -29,13 +29,13 @@ export default {
       },
       {
         referencia:
-          'CropSyst. (n.d.). [Simulador Web]. Fao.org. Recuperado el 17 de junio de 2025, de',
+          '<em>CropSyst.</em> (n.d.). [Simulador Web]. Fao.org. Recuperado el 17 de junio de 2025, de',
         link:
           'https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236450/ ',
       },
       {
         referencia:
-          'Edu.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de',
+          '<em>Edu.co.</em> (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de',
         link:
           'https://repositorio.unibague.edu.co/entities/publication/80fffeba-5ef1-4896-b721-e56c29b32bfa',
       },
@@ -47,7 +47,7 @@ export default {
       },
       {
         referencia:
-          'Foster, T., Brozović, N., Butler, A., Neale, C., Raes, D., Steduto, P., Fereres, E., & Hsiao, T. (2017). AquaCrop-OS: An open source version of FAO’s crop water productivity model. Agricultural Water Management, 181, 18–22. [Simulador Web].',
+          'Foster, T., Brozović, N., Butler, A., Neale, C., Raes, D., Steduto, P., Fereres, E., & Hsiao, T. (2017). AquaCrop-OS: An open source version of FAO’s crop water productivity model. <em>Agricultural Water Management</em>, 181, 18-22. [Simulador Web].',
         link: 'https://doi.org/10.1016/J.AGWAT.2016.11.015',
       },
       {
@@ -58,29 +58,29 @@ export default {
       },
       {
         referencia:
-          'Government Accountability Office. (n.d.). Precision agriculture: Benefits and challenges for technology adoption and use. [Pagina Web]. Gao.gov. Recuperado el 16 de junio de 2025, de',
+          'Government Accountability Office. (n.d.). <em>Precision agriculture: Benefits and challenges for technology adoption and use.</em>[Pagina Web]. Gao.gov. Recuperado el 16 de junio de 2025, de',
         link: 'https://www.gao.gov/products/gao-24-105962',
       },
       {
         referencia:
-          'How IoT drives data-driven precision farming. (2024). [Pagina Web]. Farmonaut®.',
+          '<em>How IoT drives data-driven precision farming.</em> (2024). [Pagina Web]. Farmonaut®.',
         link:
           'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
       },
       {
         referencia:
-          'Metternicht, G. (n.d.). Use of remote sensing and GNSS in precision agriculture. [Documento PDF]. Unoosa.org. Recuperado el 16 de junio de 2025, de',
+          'Metternicht, G. (n.d.). <em>Use of remote sensing and GNSS in precision agriculture.</em> [Documento PDF]. Unoosa.org. Recuperado el 16 de junio de 2025, de',
         link:
           'https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf',
       },
       {
         referencia:
-          'Montoya, E. A. Q., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Colorado, S. F. J., Muñoz, W. Y. C., Golondrino, G. E. C., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, & Institución universitaria Colegio Mayor del Cauca, Cra. 7 #2-34, 190003, Popayán, Colombia. (2017). Propuesta de una Arquitectura para Agricultura de Precisión Soportada en IoT. RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação, 24, 39–56.',
+          'Montoya, E. A. Q., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Colorado, S. F. J., Muñoz, W. Y. C., Golondrino, G. E. C., Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, Universidad del Quindío, Cra. 15 Cll. 12 norte, 630004, Armenia, Colombia, & Institución universitaria Colegio Mayor del Cauca, Cra. 7 #2-34, 190003, Popayán, Colombia. (2017). Propuesta de una Arquitectura para Agricultura de Precisión Soportada en IoT. RISTI - <em>Revista Ibérica de Sistemas e Tecnologias de Informação</em>, 24, 39-56.',
         link: 'https://doi.org/10.17013/risti.24.39-56',
       },
       {
         referencia:
-          'Smart farming with drones & IoT precision sensors. (2024). [Pagina Web]. Farmonaut®.',
+          '<em>Smart farming with drones & IoT precision sensors.</em> (2024). [Pagina Web]. Farmonaut®.',
         link:
           'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/ ',
       },
