@@ -197,7 +197,7 @@
                       <li>
                         <i class="fas fa-check-circle color1"></i
                         ><span
-                          >Climatización de Invernaderos: regula automáticamente
+                          >Climatización de invernaderos: regula automáticamente
                           la temperatura y humedad para mantener condiciones
                           óptimas.</span
                         >
@@ -455,7 +455,7 @@
         </div>
         <div
           class="py-3 py-md-4 bg11"
-          titulo="Sistemas de fertiirrigación automatizada"
+          titulo="Sistemas de fertirrigación automatizada"
         >
           <div class="row justify-content-center py-4">
             <div class="col-lg-4 my-lg-0 my-3">
@@ -466,7 +466,7 @@
               />
             </div>
             <div class="col-lg-7 my-lg-0 my-3">
-              <h5>Sistemas de fertiirrigación automatizada</h5>
+              <h5>Sistemas de fertirrigación automatizada</h5>
               <p>
                 Combinan el suministro de agua con nutrientes, adaptándose a las
                 necesidades específicas del cultivo en cada etapa de

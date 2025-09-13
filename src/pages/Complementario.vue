@@ -62,29 +62,29 @@ export default {
           tema: 'Internet de las cosas (IoT) en agricultura',
           referencia:
             '<em>Smart farming with drones & IoT precision sensors.</em> (2024, noviembre 5). Farmonaut®.',
-          tipo: 'Pagina Web',
+          tipo: 'Página Web',
           link:
-            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/',
+            'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-iot-and-drones-are-driving-precision-farming-for-sustainable-crop-yields/ ',
         },
         {
           tema: 'Automatización con sistemas SCADA',
           referencia:
             'U.S. Government Accountability Office. (s/f). Precision agriculture: Benefits and challenges for technology adoption and use. Gao.gov.',
-          tipo: 'Pagina Web',
-          link: 'https://www.gao.gov/products/gao-24-105962 ',
+          tipo: 'Página Web',
+          link: 'https://www.gao.gov/products/gao-24-105962',
         },
         {
           tema: 'Drones en la agricultura',
           referencia:
-            '<em>How IoT drives data-driven precision farming.</em> (2024, octubre 3). Farmonaut®. https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
-          tipo: 'Pagina Web',
+            '<em>How IoT drives data-driven precision farming.</em> (2024, octubre 3). Farmonaut®.',
+          tipo: 'Página Web',
           link:
             'https://farmonaut.com/precision-farming/revolutionizing-agriculture-how-data-driven-precision-farming-and-iot-are-optimizing-crop-yields-and-sustainability/',
         },
         {
           tema: 'GNSS en la agricultura',
           referencia:
-            'Metternicht, G. (n.d.). <em>Use of remote sensing and GNSS in precision agriculture.</em> [Documento PDF]. ',
+            'Metternicht, G. (n.d.). <em>Use of remote sensing and GNSS in precision agriculture.</em> [Documento PDF]. Unoosa.org ',
           tipo: 'Documento Técnico',
           link:
             'https://www.unoosa.org/documents/pdf/psa/activities/2006/zambia/presentations/04-01-01.pdf',
