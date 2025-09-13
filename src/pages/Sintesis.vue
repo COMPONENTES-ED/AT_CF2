@@ -79,8 +79,8 @@
               src="@/assets/curso/temas/sintesis.svg"
               alt="La síntesis presenta un mapa mental sobre automatización y monitoreo de sistemas productivos agropecuarios, se ramifica en ocho áreas principales que abarcan: la importancia de la tecnología, herramientas teóricas y prácticas, tecnologías utilizadas (como IoT y SCADA), optimización de procesos, beneficios del monitoreo, estudios de caso específicos, normativas y buenas prácticas, y preparación para retos del sector agropecuario moderno. Cada rama incluye subtemas detallados sobre aspectos específicos de la automatización y el monitoreo."
             />
-            <!-- <figcaption>Fuente. OIT, 2024</figcaption> -->
           </figure>
+          <figcaption>Fuente. OIT, 2024</figcaption>
         </div>
         <div class="col-auto">
           <a
